@@ -1,38 +1,44 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/159165872?v=4" width="150px" style="border-radius: 50%;">
-  <h1>Eduardo Silva</h1>
-  <h3>Arquiteto de Soluções | Desenvolvedor Full Cycle</h3>
-  <br>
-
-  <h3>🌐 Socials</h3>
-  <a href="https://www.instagram.com/0eduardosilva_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-silva-7287bb1b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">💻 Toolbox</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,fastapi,django,docker,redis,git,linux,vscode&perline=9" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo09e32y4rhf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo09e32y4rhf&theme=dracula"/>
-</div>
+  <h1>Eduardo Silva</h1>
+  <h3>Desenvolvedor Backend Especialista em Integrações & IA</h3>
+  <p>
+    Foco em transformar regras de negócio complexas em software rentável. 
+    Especialista em <strong>SaaS</strong>, <strong>Automação Financeira</strong> e <strong>Arquitetura Escalável</strong>.
+  </p>
 
-<br>
+  <a href="https://www.linkedin.com/in/eduardo-silva-7287bb1b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/0eduardosilva_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 
-<div align="center">
+  <br><br>
+
+  <h3>🚀 Stack Principal & Dados</h3>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,git" />
+  
+  <br><br>
+
+  <h3>💸 APIs & Integrações Financeiras</h3>
+  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
+  <img src="https://img.shields.io/badge/PagBank-96C93D?style=for-the-badge&logo=pagseguro&logoColor=white" alt="PagBank" />
+  <img src="https://img.shields.io/badge/SaaS_Architecture-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="SaaS" />
+
+  <br><br>
+
+  <h3>☕ Java & Web Fullstack</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </div>
+
+  <br><br>
+
+  <h3>📊 Performance no GitHub</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo09e32y4rhf&theme=dracula&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo09e32y4rhf&bg_color=282a36&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
