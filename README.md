@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/159165872?v=4" width="150px" style="border-radius: 50%;">
-  
   <h1>Eduardo Silva</h1>
   <h3>Arquiteto de Soluções SaaS | Especialista em IA & Backend</h3>
   <p>
@@ -9,37 +7,25 @@
   </p>
 
   <a href="https://www.linkedin.com/in/eduardo-silva-7287bb1b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/0eduardosilva_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/0eduardosilva_" target="_blank" style="margin-left: 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
   <br><br>
 
   <h3>🤖 Stack de IA & APIs (Prosolution)</h3>
-  <img src="https://img.shields.io/badge/Meta_Graph_API-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta API" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-
+  <img src="https://skillicons.dev/icons?i=facebook,tensorflow, pytorch" />
   <br><br>
 
   <h3>🚀 Backend & Infraestrutura</h3>
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git" />
-  
-  <br><br>
-
-  <h3>💸 Gateway de Pagamentos</h3>
-  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
-  <img src="https://img.shields.io/badge/PagBank-96C93D?style=for-the-badge&logo=pagseguro&logoColor=white" alt="PagBank" />
 
   <br><br>
 
   <h3>☕ Java & Web</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts" />
 
   <br><br>
 
