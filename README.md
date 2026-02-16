@@ -39,9 +39,11 @@
 
   <br><br>
 
-  <h3>🔥 Ofensiva de Código</h3>
-  <p align="center">
+  <h3>📊 Desempenho</h3>
+  <div align="center">
     <img src="https://streak-stats.demolab.com?user=Eduardo09e32y4rhf&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-  </p>
+    <br><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo09e32y4rhf&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Langs" />
+  </div>
 
 </div>
