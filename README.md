@@ -2,7 +2,7 @@
   <h1>Eduardo Silva</h1>
   <h3>Arquiteto de Soluções SaaS | Especialista em IA & Backend</h3>
   <p>
-    Desenvolvedor focado em <strong>SaaS</strong>, <strong>Automação Financeira</strong> e <strong>Agentes de IA</strong>.
+    Desenvolvedor Jr focado em <strong>SaaS</strong>, <strong>Automação Financeira</strong> e <strong>Agentes de IA</strong>.
     Criador do <strong>Prosolution IA</strong> e <strong>Innovation IA</strong>.
   </p>
 
@@ -40,10 +40,18 @@
   <br><br>
 
   <h3>📊 Desempenho</h3>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Eduardo09e32y4rhf&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-    <br><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo09e32y4rhf&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Langs" />
-  </div>
+  
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduardo09e32y4rhf&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo09e32y4rhf&layout=compact&theme=midnight-purple&hide_border=true" />
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Eduardo09e32y4rhf&theme=midnight-purple&hide_border=true" alt="Streak" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo09e32y4rhf&bg_color=0D1117&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" />
+  </p>
 
 </div>
