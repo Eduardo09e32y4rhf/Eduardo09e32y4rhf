@@ -2,7 +2,7 @@
   <h1>Eduardo Silva</h1>
   <h3>Arquiteto de Soluções SaaS | Especialista em IA & Backend</h3>
   <p>
-    Desenvolvedor Sênior focado em <strong>SaaS</strong>, <strong>Automação Financeira</strong> e <strong>Agentes de IA</strong>.
+    Desenvolvedor Jr focado em <strong>SaaS</strong>, <strong>Automação Financeira</strong> e <strong>Agentes de IA</strong>.
     Criador do <strong>Prosolution IA</strong> e <strong>Innovation IA</strong>.
   </p>
 
