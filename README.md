@@ -37,4 +37,11 @@
   <h3>☕ Java e Web</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts" />
 
+  <br><br>
+
+  <h3>🔥 Ofensiva de Código</h3>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Eduardo09e32y4rhf&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  </p>
+
 </div>
