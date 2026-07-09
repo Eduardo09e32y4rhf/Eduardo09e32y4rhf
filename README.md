@@ -1,17 +1,17 @@
 <div align="center">
 
-  <h1>Eduardo Silva</h1>
-  <h3>Engenheiro de Software | Arquiteto de SaaS | Especialista em IA</h3>
+  <h1>José Eduardo da Silva</h1>
+  <h3>Desenvolvedor Full Stack Júnior</h3>
   
   <p>
-    Construindo ecossistemas <strong>SaaS escaláveis</strong> com foco em <strong>Automação Financeira</strong> e <strong>Agentes de IA</strong>.
+    Construindo <strong>sistemas web escaláveis do zero</strong> ao deploy, com foco no desenvolvimento de <strong>SaaS e plataformas de gestão (RH)</strong> utilizando <strong>Node.js, TypeScript e ecossistema JavaScript</strong>.
   </p>
 
   <a href="https://innovation-chat.vercel.app/#products" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Innovation_IA-8E75B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Innovation IA" />
+    <img src="https://img.shields.io/badge/Live_Demo-Innovation-8E75B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Innovation" />
   </a>
   <a href="https://estrutura-inicial-do-site-prosoluti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Prosolution_IA-009EE3?style=for-the-badge&logo=vercel&logoColor=white" alt="Prosolution IA" />
+    <img src="https://img.shields.io/badge/Live_Demo-Prosolution-009EE3?style=for-the-badge&logo=vercel&logoColor=white" alt="Prosolution" />
   </a>
 
   <br><br>
@@ -27,30 +27,22 @@
 
   <h2>🛠️ Stack Tecnológica</h2>
 
-  <h3>🤖 IA & Orquestração</h3>
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-  <br><br>
-
   <h3>🖥️ Back-end & Infraestrutura</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,docker,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,docker,linux,git" />
 
   <br><br>
 
   <h3>🎨 Front-end & UX</h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
   <br><br>
 
-  <h3>🗄️ Banco de Dados & Cache</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+  <h3>🗄️ Banco de Dados</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
   <br><br>
 
-  <h3>💸 Gestão Financeira & Gateways</h3>
+  <h3>🔌 Integrações & Gateways (Projetos Anteriores)</h3>
   <img src="https://img.shields.io/badge/Asaas-0030FF?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Asaas" />
   <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
   <img src="https://img.shields.io/badge/PagBank-96C93D?style=for-the-badge&logo=pagseguro&logoColor=white" alt="PagBank" />
@@ -59,8 +51,8 @@
 
   <h2>🚀 Projetos em Destaque</h2>
   <p>
-    <strong><a href="https://innovation-chat.vercel.app/#products">Innovation IA</a></strong> | Plataforma SaaS (RH e Finanças)<br>
-    <strong><a href="https://estrutura-inicial-do-site-prosoluti.vercel.app/">Prosolution IA</a></strong> | CRM e Automação de Vendas
+    <strong><a href="https://innovation-chat.vercel.app/#products">Innovation</a></strong> | Sistema completo de gestão de RH (SaaS) com rotas protegidas e deploy em VPS.<br>
+    <strong><a href="https://estrutura-inicial-do-site-prosoluti.vercel.app/">Prosolution</a></strong> | CRM e Automação de Vendas integrado com meios de pagamento.
   </p>
 
   <br><br><br>
