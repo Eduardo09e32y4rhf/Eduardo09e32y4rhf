@@ -76,7 +76,7 @@
 
 <h2>🚀 Projetos em Destaque & Deployments</h2>
 
-Nesta seção, destaco aplicações desenvolvidas de ponta a ponta, envolvendo modelagem de banco de dados, regras de negócio complexas e deploy em produção.
+<p>Nesta seção, destaco aplicações desenvolvidas de ponta a ponta, envolvendo modelagem de banco de dados, regras de negócio complexas e deploy em produção.</p>
 
 | Projeto & Preview | Arquitetura & Impacto | Status |
 |-------------------|-----------------------|--------|
@@ -90,6 +90,9 @@ Nesta seção, destaco aplicações desenvolvidas de ponta a ponta, envolvendo m
 <div align="center">
   <h2>📊 Métricas & Consistência</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo09e32y4rhf&show_icons=true&theme=midnight-purple&hide_border=true&title_color=bd93f9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo09e32y4rhf&theme=midnight-purple&hide_border=true&title_color=bd93f9" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo09e32y4rhf&bg_color=0D1117&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo09e32y4rhf&layout=compact&theme=midnight-purple&hide_border=true&title_color=bd93f9" alt="Top Languages" />
 </div>
